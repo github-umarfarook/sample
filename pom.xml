@@ -8,7 +8,7 @@
   <name>Deployer</name>
   <url>http://maven.apache.org</url>
   <properties>
-    <FailOnMissingWebXml>false</FailOnMissingWebXml>
-  </properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>   
+</properties>
 </project>
 
